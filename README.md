@@ -20,3 +20,7 @@
 10. Which state has the lowest Average Revenue Per Customer in Jan 2018 - Aug 2018?
 
 *Note: This is part of assignments from RevoU Python Courses.*
+
+The datasets are taken from Kaggle : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+But in this project, only three datasets will be used, there are `orders_dataset`, `customers_dataset`, and `order_payments_dataset`.
